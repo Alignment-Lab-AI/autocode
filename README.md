@@ -11,6 +11,8 @@ Currently, the project includes two key scripts:
 - AutoCode Working
 - AutoCode Beta
 
+# inspirations folder contains performative and working scripts that ive based the logic of mine on, i did not write them, merely obsessed over them.
+
 These are the only scripts that are functional at present. However, we are constantly improving and updating our repository. The end goal is to have a full suite of scripts that cover a wide range of programming tasks, all working autonomously.
 
 ## Usage
