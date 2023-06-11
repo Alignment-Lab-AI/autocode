@@ -1,5 +1,5 @@
 # autocode
-Experiments aith fuly autonomous programming
+Experiments with fuly autonomous programming
 
 # AutoCode Project
 
